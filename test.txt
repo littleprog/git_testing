@@ -3,3 +3,5 @@ Good morning
 Hi there
 Good afternoon
 Good evening
+Good day
+
